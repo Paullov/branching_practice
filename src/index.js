@@ -1,1 +1,1 @@
-console.log("start");
+console.log("version 2");
